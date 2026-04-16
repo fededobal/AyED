@@ -26,15 +26,15 @@ public class ContadorArbol {
             nPIO(tree.getLeftChild(),list);
         if(tree.getData() % 2 == 0)
             list.add(tree.getData());
-        if(tree.hasLeftChild())
-            nPIO(tree.getLeftChild(),list);
+        if(tree.hasRightChild())
+            nPIO(tree.getRightChild(),list);
     }
     public void nPPO(BinaryTree<Integer> tree, List<Integer> list) {
         if(tree.getData() % 2 == 0)
             list.add(tree.getData());
         if(tree.hasLeftChild())
             nPIO(tree.getLeftChild(),list);
-        if(tree.hasLeftChild())
-            nPIO(tree.getLeftChild(),list);
+        if(tree.hasRightChild())
+            nPIO(tree.getRightChild(),list);
     }
 }
