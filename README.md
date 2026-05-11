@@ -1,6 +1,7 @@
 # Algoritmos y Estructuras de Datos
 > [!CAUTION]
 > Cualquier resolución está sujeta a ERRORES.
+
 Este repositorio contiene ejercicios, prácticas y parciales relacionados con la materia.
 
 ## Contenido
