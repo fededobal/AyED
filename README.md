@@ -70,11 +70,11 @@ Cada carpeta tiene el enunciado (imagen o PDF) y la solución en Java.
 | Parcial | Solución | Qué resuelve |
 | --- | --- | --- |
 | [AYED_2022](2025/src/Parciales/Árboles/AYED_2022/Enunciados.pdf) | [Punto1 a Punto7](2025/src/Parciales/Árboles/AYED_2022/) | Parciales 2022: camino por valores, princesa accesible, árbol creciente, código zigzag, caminos pares, suma de impares en posorden. |
-| [Fecha 10/5/2025](2025/src/Parciales/Árboles/Fecha_10_5_2025/Examen%20Completo.pdf) | [ParcialArboles.java](2025/src/Parciales/Árboles/Fecha_10_5_2025/ParcialArboles.java) | Camino de signo alternante en un árbol general. |
-| [Fecha 28/4/2025](2025/src/Parciales/Árboles/Fecha_28_4_2025/Enunciado.jpg) | [Tesoros.java](2025/src/Parciales/Árboles/Fecha_28_4_2025/Tesoros.java) | Tesoro más cercano a la raíz sin pasar por cámaras bloqueadas. |
+| [10/05/2025](2025/src/Parciales/Árboles/Fecha_10_5_2025/Examen%20Completo.pdf) | [ParcialArboles.java](2025/src/Parciales/Árboles/Fecha_10_5_2025/ParcialArboles.java) | Camino de signo alternante en un árbol general. |
+| [28/04/2025](2025/src/Parciales/Árboles/Fecha_28_4_2025/Enunciado.jpg) | [Tesoros.java](2025/src/Parciales/Árboles/Fecha_28_4_2025/Tesoros.java) | Tesoro más cercano a la raíz sin pasar por cámaras bloqueadas. |
 | [Fecha 16/11/2024](2025/src/Parciales/Árboles/Fecha_16_11_2024/Enunciado.jpg) | [ComparadorDeArbolesGenerales.java](2025/src/Parciales/Árboles/Fecha_16_11_2024/ComparadorDeArbolesGenerales.java) | Si un árbol general es "inferior profundo" de otro. |
-| [Fecha 29/6/2024](2025/src/Parciales/Árboles/Fecha_29_6_2024/Enunciado.jpg) | [ParcialArboles.java](2025/src/Parciales/Árboles/Fecha_29_6_2024/ParcialArboles.java) | Copia el árbol binario sumándole a cada hijo izquierdo el valor de su padre. |
-| [Fecha 15/5/2024](2025/src/Parciales/Árboles/Fecha_15_5_2024/Enunciado.jpg) | [ParcialArboles.java](2025/src/Parciales/Árboles/Fecha_15_5_2024/ParcialArboles.java) | Camino a una hoja en el que cada nodo interno tiene al menos `num` hijos. |
+| [29/06/2024](2025/src/Parciales/Árboles/Fecha_29_6_2024/Enunciado.jpg) | [ParcialArboles.java](2025/src/Parciales/Árboles/Fecha_29_6_2024/ParcialArboles.java) | Copia el árbol binario sumándole a cada hijo izquierdo el valor de su padre. |
+| [15/05/2024](2025/src/Parciales/Árboles/Fecha_15_5_2024/Enunciado.jpg) | [ParcialArboles.java](2025/src/Parciales/Árboles/Fecha_15_5_2024/ParcialArboles.java) | Camino a una hoja en el que cada nodo interno tiene al menos `num` hijos. |
 | [Fecha 15/10/2022](2025/src/Parciales/Árboles/Fecha_15_10_2022/Enunciado.jpg) | [Parcial.java](2025/src/Parciales/Árboles/Fecha_15_10_2022/Parcial.java) | Primer camino a hoja con al menos `min` valores pares. |
 | [COLAPINTO](2025/src/Parciales/Árboles/COLAPINTO/Enunciado.jpeg) | [Estrategia.java](2025/src/Parciales/Árboles/COLAPINTO/Estrategia.java) | Mejor estrategia de compuestos de neumáticos. |
 | [EncontrarALaPrincesa](2025/src/Parciales/Árboles/EncontrarALaPrincesa/Enunciado.png) | [Parcial.java](2025/src/Parciales/Árboles/EncontrarALaPrincesa/Parcial.java) | Camino desde la raíz hasta la princesa sin pasar por dragones. |
@@ -92,8 +92,8 @@ Cada carpeta tiene el enunciado (imagen o PDF) y la solución en Java.
 
 | Parcial | Solución | Qué resuelve |
 | --- | --- | --- |
-| [15/6/2024, Tema 1](2025/src/Parciales/Grafos/Fecha_15_06_2024/Tema1/Enunciado.jpg) | [Temaiken1.java](2025/src/Parciales/Grafos/Fecha_15_06_2024/Tema1/Temaiken1.java) | Máxima cantidad de recintos visitables en un tiempo dado. |
-| [15/6/2024, Tema 2](2025/src/Parciales/Grafos/Fecha_15_06_2024/Tema2/Enunciado.jpg) | [Temaiken2.java](2025/src/Parciales/Grafos/Fecha_15_06_2024/Tema2/Temaiken2.java) | Si se pueden recorrer todos los recintos en el tiempo dado. |
+| [15/06/2024, tema 1](2025/src/Parciales/Grafos/Fecha_15_06_2024/Tema1/Enunciado.jpg) | [Temaiken1.java](2025/src/Parciales/Grafos/Fecha_15_06_2024/Tema1/Temaiken1.java) | Máxima cantidad de recintos visitables en un tiempo dado. |
+| [15/06/2024, tema 2](2025/src/Parciales/Grafos/Fecha_15_06_2024/Tema2/Enunciado.jpg) | [Temaiken2.java](2025/src/Parciales/Grafos/Fecha_15_06_2024/Tema2/Temaiken2.java) | Si se pueden recorrer todos los recintos en el tiempo dado. |
 | [28/11/2022](2025/src/Parciales/Grafos/Fecha_28_11_2022/Enunciado.pdf) | [Estadios.java](2025/src/Parciales/Grafos/Fecha_28_11_2022/Estadios.java) | Camino que visita la mayor cantidad de estadios desde un origen sin superar `cantKm`. |
 
 ### [Análisis de algoritmos](2025/src/Parciales/Análisis%20de%20Algoritmos%20-%20Tiempos%20de%20Ejecución/)
